@@ -5,7 +5,7 @@ NAME : AMOL SHIVAJI KADAM
 INTERN ID : CT08DN391
 DOMAIN : DATA SCIENCE
 DURARION : 8 WEEKS
-MENTOR ; NEELA SANTOSH
+MENTOR : NEELA SANTOSH
 
 ## Description :
 # ETL Pipeline and Preprocessing for Diabetes Prediction
